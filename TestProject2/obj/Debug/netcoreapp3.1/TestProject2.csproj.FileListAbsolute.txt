@@ -1,0 +1,12 @@
+/Users/koontzrd/Projects/TestProject2/TestProject2/bin/Debug/netcoreapp3.1/TestProject2.deps.json
+/Users/koontzrd/Projects/TestProject2/TestProject2/bin/Debug/netcoreapp3.1/TestProject2.runtimeconfig.json
+/Users/koontzrd/Projects/TestProject2/TestProject2/bin/Debug/netcoreapp3.1/TestProject2.runtimeconfig.dev.json
+/Users/koontzrd/Projects/TestProject2/TestProject2/bin/Debug/netcoreapp3.1/TestProject2.dll
+/Users/koontzrd/Projects/TestProject2/TestProject2/bin/Debug/netcoreapp3.1/TestProject2.pdb
+/Users/koontzrd/Projects/TestProject2/TestProject2/obj/Debug/netcoreapp3.1/TestProject2.csprojAssemblyReference.cache
+/Users/koontzrd/Projects/TestProject2/TestProject2/obj/Debug/netcoreapp3.1/TestProject2.AssemblyInfoInputs.cache
+/Users/koontzrd/Projects/TestProject2/TestProject2/obj/Debug/netcoreapp3.1/TestProject2.AssemblyInfo.cs
+/Users/koontzrd/Projects/TestProject2/TestProject2/obj/Debug/netcoreapp3.1/TestProject2.csproj.CoreCompileInputs.cache
+/Users/koontzrd/Projects/TestProject2/TestProject2/obj/Debug/netcoreapp3.1/TestProject2.dll
+/Users/koontzrd/Projects/TestProject2/TestProject2/obj/Debug/netcoreapp3.1/TestProject2.pdb
+/Users/koontzrd/Projects/TestProject2/TestProject2/obj/Debug/netcoreapp3.1/TestProject2.genruntimeconfig.cache
